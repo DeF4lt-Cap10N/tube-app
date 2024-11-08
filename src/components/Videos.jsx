@@ -1,9 +1,16 @@
 import React from 'react'
+import { Box, Stack} from '@mui/material'
 
-const Videos = ({Video}) => {
+const Videos = ({Videos}) => {
  
   return (
-    <div>Videos</div>
+    <>
+    <Stack direction="row" flexWrap="wrap"  >
+      <Box key={idx}>
+
+      </Box>
+    </Stack>
+    </>
   )
 }
 

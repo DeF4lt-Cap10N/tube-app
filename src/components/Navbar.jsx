@@ -5,6 +5,7 @@ import SearchBar from './SearchBar';
 
 
 const Navbar = () => {
+
   return (
     <>
       <Stack direction="row"

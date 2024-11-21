@@ -16,7 +16,6 @@ export const logo = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTPe
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },

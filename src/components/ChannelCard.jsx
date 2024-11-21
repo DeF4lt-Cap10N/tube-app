@@ -17,7 +17,7 @@ function ChannelCard(channelDetail) {
       alignItems:'centre',
       width:{xs:'356px' , md:'320px'},
       height:'326px',
-
+      margin:'auto'
     }}>
       <Link to={`/channel/${channelDetail?.id?.channelId}`}>
       <CardContent sx={{display:'flex', flexDirection:'column', justifyContent:'center', textAlign:'center', color:'#fff'}}>

@@ -22,7 +22,7 @@ const SearchBar = () => {
             <input
               style={{marginLeft:'5px'}}
                className='search-bar'
-               Placeholder='Search...'
+               placeholder='Search...'
                type='text'
                value=""
                onChange={() => { }}

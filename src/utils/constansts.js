@@ -12,7 +12,7 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTPe5oIm9wmFk2s0uvLZV4yOFFAXyJdr2Eg&s';
+export const logo = 'https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },

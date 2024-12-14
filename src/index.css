@@ -11,7 +11,7 @@ a {
 }
 
 ::-webkit-scrollbar {
-  width: 0px;
+  width: 5px;
   height: 5px;
 }
 
@@ -26,7 +26,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: gray !important;
   color: white !important;
 }
 
@@ -57,7 +57,7 @@ a {
   border: none;
 
   padding: 7px 15px;
-  margin: 10px 0px;
+  margin: 10px 10px;
   border-radius: 20px;
   transition: all 0.3s ease;
 }

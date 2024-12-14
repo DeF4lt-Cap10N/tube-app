@@ -12,14 +12,12 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg';
+export const logo = 'https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
 
   { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
